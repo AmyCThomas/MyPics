@@ -1,0 +1,2 @@
+# MyPics
+Picture hosting
